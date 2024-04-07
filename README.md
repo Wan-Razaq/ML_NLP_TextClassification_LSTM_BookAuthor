@@ -1,1 +1,1 @@
-# ML_TextClassification_LSTM_BookAuthor
+# ML_NLP_TextClassification_LSTM_BookAuthor
