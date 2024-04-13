@@ -17,11 +17,9 @@ Data Source: https://www.kaggle.com/competitions/spooky-author-identification/ov
 
 Variables in the Data:
 
-**id**: A unique identifier for each sentence.
-
-**text**: A string containing an excerpt from a horror story.
-
-**author**: The author of the excerpt, coded as 'EAP' for Edgar Allan Poe, 'HPL' for HP Lovecraft, and 'MWS' for Mary Shelley.
+- **id**: A unique identifier for each sentence.
+- **text**: A string containing an excerpt from a horror story.
+- **author**: The author of the excerpt, coded as 'EAP' for Edgar Allan Poe, 'HPL' for HP Lovecraft, and 'MWS' for Mary Shelley.
 
 ## Data Preparation
 
